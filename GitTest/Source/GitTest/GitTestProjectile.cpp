@@ -23,7 +23,7 @@ AGitTestProjectile::AGitTestProjectile()
 	ProjectileMovement = CreateDefaultSubobject<UProjectileMovementComponent>(TEXT("ProjectileComp"));
 	ProjectileMovement->UpdatedComponent = CollisionComp;
 	ProjectileMovement->InitialSpeed = 3000.f;
-	//bye bye
+	//123456
 	ProjectileMovement->bRotationFollowsVelocity = true;
 	ProjectileMovement->bShouldBounce = true;
 
