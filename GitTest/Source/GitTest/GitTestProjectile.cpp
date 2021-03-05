@@ -28,6 +28,7 @@ AGitTestProjectile::AGitTestProjectile()
 	ProjectileMovement->MaxSpeed = 5000.f;
 	ProjectileMovement->bRotationFollowsVelocity = true;
 	ProjectileMovement->bShouldBounce = true;
+	// asdlasd
 
 	// Die after 3 seconds by default
 	InitialLifeSpan = 3.0f;
