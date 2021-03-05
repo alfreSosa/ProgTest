@@ -26,6 +26,7 @@ AGitTestProjectile::AGitTestProjectile()
 	//bye bye
 	// hello
 	ProjectileMovement->MaxSpeed = 5000.f;
+	//123456
 	ProjectileMovement->bRotationFollowsVelocity = true;
 	ProjectileMovement->bShouldBounce = true;
 	// asdlasd
